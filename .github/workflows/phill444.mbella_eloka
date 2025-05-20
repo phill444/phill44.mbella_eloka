@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>mon CV</title>
+    <style>
+        body{
+            background: rgb(30, 135, 210);
+            justify-content: center;
+            height: 100vh;
+            align-items: center;
+        }
+        .block{
+            display: flex;
+            
+        }
+        .photo{
+            margin-left: 100px;background-color:rgb(190, 183, 183);font-family: Arial;display: flex; padding-top: 45px;margin-top: 30px;padding-right: 1000px;border-radius:70px;
+        }
+        img{
+            padding-left: 55px;padding-bottom: 55px;margin-top: 40px;
+        }
+        h1{
+            padding-top: 180px; padding-left: 180px;font-size: 80px;margin-left: 500px;display:flex;
+        }
+        .Compétences{
+            padding-right: 300px; background-color: rgb(253, 157, 60);padding-left: 10px;height:100% ; font-size: 50px;margin-left: 300px;padding-top: 100px;
+        }
+        li{
+            display:flex; 
+        }
+        .BIOGRAPHIE{
+            padding-right: 250px; background-color: rgb(255, 106, 0);padding-left: 50px; height: 2508px;font-size: 50px;margin-right: 280px;padding-top: 830px;
+        }
+        p{
+            font-size: 60px;padding-left: 30px;
+        }
+        h3{
+            padding-left: 70px;
+        }  
+        ul{
+            padding-left: 30px;font-size: 60px;
+        } 
+        footer{
+            background-color: blue;
+        }
+    </style>
+</head>
+<body>
+
+        <div class="block">
+            <div class="Compétences">
+            <nav class="photo">
+                    <img src="WhatsApp Image 2025-05-19 à jpg.jpg" alt="MBELLA ELOKA RA-USIR" width="60%">
+                    <h1>MBELLA ELOKA R.</h1>
+            </nav>
+            
+                <h3><u><strong>PROFIL</strong></u></h3>
+                    <p> Etudiant en Niveau 1 filière MATHS-INFORMATIQUES</p>
+                <u><h3><strong>CONTACT</strong></h3></u>
+                <p>
+                    </BR>Téléphone: 675148403
+                    </br>WhatsApp: 658683689
+                </p>    
+                    <h3><u> Email : stillreachmyobjectives456@gmail.com </u></h3>
+                <u><h3>RESIDENCE</h3></u>
+                <p>
+                    Avenue de Bepanda
+                </p>
+                    <p>
+                        Douala, Cameroun
+                    </p>  
+                <u><h3>LANGUES</h3></u> 
+                <p>
+                    <ul>
+                        <li>Francais</li>
+                        <li>Anglais</li>
+                        <li>Allemand</li>
+                        <li>Italien</li>
+                    </ul>      
+                </p>
+                <u><h3>COMPETENCES</h3></u>
+                <p>
+                    <ul>
+                    <li>Sociabilité</li>
+                    <li>Responsabilité</li>
+                    <li>Sérieux</li>
+                    <li>Ouverture d'esprit</li>
+                    <li>Ponctualité</li>
+                </ul>
+                
+                </p>
+                <u><h3>CENTRE D'INTERET</h3></u>
+                <p>
+                Musique-Sport-Cinéma-Art
+            </p>        
+            </div> 
+            <div class="BIOGRAPHIE">   
+                <h3><u>FORMATION</u></h3>
+                   <P>Cycle licence en Génie informatique Université de Douala </P> 
+                    <p>Baccalaureat Scientifique D
+                   <br>Lycée d'Ekité d'Edéa
+                    </p>
+                <h3><U>EXPERIENCE PROFESSIONNELLES</U></h3>
+                    <p>Stage de formation au sein du centre de formation en web desingning LOCALHOST ACADEMI</p>
+                <h3><u>CONNAISSANCES INFORMATIQUES</u></h3>   
+                    <p>Word-Excel-PowerPoint-Montage vidéo</p>
+            </div>  
+        </div>  
+        <footer>
+        <center><p>&copy; 1000 Mon site.Tous droits réservés</p></center>            
+        </footer>    
+</body>
+</html>
